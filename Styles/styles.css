@@ -75,6 +75,7 @@ header {
   color: var(--color-principal);
   border: 2px solid var(--color-principal);
   border-radius: 10px;
+  display: none;
 }
 .info_perfil p img, a img {
   width: 20px;

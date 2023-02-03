@@ -19,7 +19,7 @@ document.getElementById('ocultar').addEventListener('click', function(){
 })
 
 document.getElementById('mostrar').addEventListener('click', function(){
-    document.getElementById('info-p').style.display = '';
+    document.getElementById('info-p').style.display = 'inline';
 })
 
 document.getElementById('cerrar').addEventListener('click', function(){
